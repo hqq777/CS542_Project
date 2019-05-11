@@ -3,7 +3,6 @@ Mask R-CNN
 Train on the toy Danger dataset.
 
 Forked from https://github.com/matterport/Mask_RCNN
-Written by Haiqi Ma, Yang Yang
 
 ------------------------------------------------------------
 

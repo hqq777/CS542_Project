@@ -12,7 +12,7 @@ compute capability of at least 3.5 (which includes the K40m and P100 cards)).
 
 ## Installation:
 * If you have account on BU SCC, just clone this repository. Open terminal under 
-<a href = "/danger" title = "danger">danger</a></p>, 
+<a href = "/danger" title = "danger">danger</a></p>
   ><p>run qsub myJob.sh</p>
 * Otherwise:
   >1. Clone this repository

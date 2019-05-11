@@ -1,10 +1,9 @@
 """
 Mask R-CNN
-Train on the toy Danger dataset and implement color splash effect.
+Train on the toy Danger dataset.
 
-Copyright (c) 2018 Matterport, Inc.
-Licensed under the MIT License (see LICENSE for details)
-Written by Waleed Abdulla
+Forked from https://github.com/matterport/Mask_RCNN
+Written by Haiqi Ma, Yang Yang
 
 ------------------------------------------------------------
 

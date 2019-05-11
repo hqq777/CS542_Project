@@ -2,9 +2,9 @@
 
 Aiming to detect dangerous items on X-Ray.
 
-Our project is tesed on BU SCC:
-4 CPU cores and 1 GPU (12 GB memory) 
-compute capability of at least 3.5 (which includes the K40m and P100 cards)).
+Our project is tested on BU SCC:
+* 4 CPU cores and 1 GPU (12 GB memory) 
+* Compute capability of at least 3.5 (which includes the K40m and P100 cards)).
 
 ## Requirements:
 * python/3.6.2

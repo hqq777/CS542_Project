@@ -714,7 +714,7 @@ def compute_matches(gt_boxes, gt_class_ids, gt_masks,
 
 def compute_ap(gt_boxes, gt_class_ids, gt_masks,
                pred_boxes, pred_class_ids, pred_scores, pred_masks,
-               iou_threshold=0.5):
+               iou_threshold=0.65):
     """Compute Average Precision at a set IoU threshold (default 0.5).
 
     Returns:

@@ -25,7 +25,6 @@ Usage: import the module (see Jupyter notebooks for examples), or run from
     python3 danger.py splash --weights=last --video=<URL or path to file>
 """
 
-
 import os
 import sys
 import json
